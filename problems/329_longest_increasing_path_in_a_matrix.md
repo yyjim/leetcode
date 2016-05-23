@@ -1,5 +1,5 @@
 # 329. Longest Increasing Path in a Matrix
-https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/
+https://leetcode.com/problems/longest-increasing-path-in-a-matrix/
 
 Given an integer matrix, find the length of the longest increasing path.
 
