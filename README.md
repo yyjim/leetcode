@@ -10,3 +10,4 @@ LeetCode
 |263|[Ugly Number](./problems/263_ugly_number.md) |[Ruby](./algorithms/ruby/263_ugly_number.rb)|Easy|
 |329|[Longest Increasing Path in a Matrix](./problems/329_longest_increasing_path_in_a_matrix.md)| [Ruby](./algorithms/ruby/329_longest_increasing_path_in_a_matrix.rb)|Hard|
 |153|[Find Minimum in Rotated Sorted Array](./problems/153_find_minimum_in_rotated_sorted_array.md)|[Ruby](./algorithms/ruby/153_find_minimum_in_rotated_sorted_array.rb)|Medium|
+|62|[Unique Paths](./problems/62_unique_paths.md)|[Ruby](./algorithms/ruby/62_unique_paths.rb)|Medium|
