@@ -11,3 +11,4 @@ LeetCode
 |329|[Longest Increasing Path in a Matrix](./problems/329_longest_increasing_path_in_a_matrix.md)| [Ruby](./algorithms/ruby/329_longest_increasing_path_in_a_matrix.rb)|Hard|
 |153|[Find Minimum in Rotated Sorted Array](./problems/153_find_minimum_in_rotated_sorted_array.md)|[Ruby](./algorithms/ruby/153_find_minimum_in_rotated_sorted_array.rb)|Medium|
 |62|[Unique Paths](./problems/62_unique_paths.md)|[Ruby](./algorithms/ruby/62_unique_paths.rb)|Medium|
+|42|[Trapping Rain Water](./problems/42_trapping_rain_water.md)|[Ruby](./algorithms/ruby/42_trapping_rain_water.rb)|Hard|
