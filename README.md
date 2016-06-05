@@ -12,3 +12,4 @@ LeetCode
 |153|[Find Minimum in Rotated Sorted Array](./problems/153_find_minimum_in_rotated_sorted_array.md)|[Ruby](./algorithms/ruby/153_find_minimum_in_rotated_sorted_array.rb)|Medium|
 |62|[Unique Paths](./problems/62_unique_paths.md)|[Ruby](./algorithms/ruby/62_unique_paths.rb)|Medium|
 |42|[Trapping Rain Water](./problems/42_trapping_rain_water.md)|[Ruby](./algorithms/ruby/42_trapping_rain_water.rb)|Hard|
+|25|[Reverse Nodes in k-Group](./problems/25_reverse_nodes_in_k-group.md)|[Ruby](./algorithms/ruby/25_reverse_nodes_in_k-group.rb)|Hard|
