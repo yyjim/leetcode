@@ -14,3 +14,4 @@ LeetCode
 |42|[Trapping Rain Water](./problems/42_trapping_rain_water.md)|[Ruby](./algorithms/ruby/42_trapping_rain_water.rb)|Hard|
 |25|[Reverse Nodes in k-Group](./problems/25_reverse_nodes_in_k-group.md)|[Ruby](./algorithms/ruby/25_reverse_nodes_in_k-group.rb)|Hard|
 |239|[Sliding Window Maximum](./problems/239_sliding-window-maximum.md)|[Ruby](./algorithms/ruby/239_sliding-window-maximum.rb)|Hard|
+|127|[Word Ladder](./problems/127_word_ladder.md)|[Ruby](./algorithms/ruby/127_word_ladder.rb)|Medium|
